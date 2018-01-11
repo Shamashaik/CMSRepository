@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 Welcome Dave
+=======
+Welcome User
+>>>>>>> branch 'Branch-one' of https://github.com/Shamashaik/CMSRepository.git
 </body>
 </html>
